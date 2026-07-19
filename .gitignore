@@ -12,7 +12,6 @@ LaMini-T5-738M/
 
 # Ignore environment variables
 .env
-
-# Ignore these files
+#these are another code files
 app.py
 app2.py
