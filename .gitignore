@@ -1,0 +1,18 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Chroma database
+db/
+
+# Ignore local model
+LaMini-T5-738M/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore environment variables
+.env
+
+# Ignore these files
+app.py
+app2.py
